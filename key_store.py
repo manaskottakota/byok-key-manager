@@ -8,7 +8,7 @@ from typing import Optional, Dict, Any
 
 
 KEYS_FILE = "data/keys.json"
-MASTER_KEY = b'?????????' # CHOOOSE SOME MASTER KEY
+MASTER_KEY = b'tD3VsEWSpVRQRlpA2nwDn3s5-L4HwYJ7TGuMl_5jGsk='
 
 
 def _load_keys() -> Dict[str, Any]:
